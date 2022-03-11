@@ -1,5 +1,7 @@
 # Vending_Machine
 
+* To find out how this vending machine works, please read TRABAJO_FINAL_SMD_CSH.pdf
+
 # Contributors 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
